@@ -1,0 +1,2 @@
+message = 'qwerty'
+print(message)
